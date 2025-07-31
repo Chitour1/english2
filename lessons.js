@@ -2946,5 +2946,4 @@ export const LESSON_LIBRARY = {
             { id: "brn_21", en: "The human brain can store a lot of information.", ar: "يمكن للدماغ البشري تخزين الكثير من المعلومات.", context: "لوصف القدرة", highlight: "brain", pronunciation_en: "/ðə ˈhjuːmən breɪn kæn stɔːr ə lɒt əv ˌɪnfərˈmeɪʃən/", pronunciation_ar: "ذَا هيومان براين كان ستور أَ لوت أوف إنفورميشن.", tip_ar: "الفعل 'store' يعني 'يخزن'. كلمة 'information' هي اسم غير معدود." }
         ]
     }
-}
 };

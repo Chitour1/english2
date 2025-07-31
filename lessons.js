@@ -1881,7 +1881,6 @@ export const LESSON_LIBRARY = {
     }
       },
                 "المستوى السادس": {
-{
     'bean': {
         title: "bean",
         sentences: [

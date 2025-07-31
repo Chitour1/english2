@@ -1,7 +1,7 @@
 // lessons.js
 
 export const LESSON_LIBRARY = {
-                "المستوى 1 الأول": {
+                "المستوى الأول": {
                     'add': {
                         title: "add",
                         sentences: [

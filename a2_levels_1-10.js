@@ -1,4 +1,4 @@
-// lessons.js
+// a2_levels_1-10.js
 
 export const LESSON_LIBRARY = {
                 "المستوى الأول": {

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>إعدادات قارئ المقالات الذكي</title>
+  <style>
+    body { font-family: sans-serif; text-align: center; width: 300px; padding: 10px; direction: rtl; }
+    h2 { color: #2c3e50; }
+    input { width: 90%; padding: 8px; margin-top: 10px; border: 1px solid #ccc; }
+    button { padding: 10px 20px; margin-top: 15px; border: none; background-color: #3498db; color: white; cursor: pointer; }
+    #status { margin-top: 15px; color: green; }
+  </style>
+</head>
+<body>
+  <h2>إعدادات قارئ المقالات الذكي</h2>
+  <p>الرجاء إدخال مفتاح API الخاص بخدمة Google Cloud Text-to-Speech.</p>
+  <input type="password" id="apiKey" placeholder="أدخل المفتاح هنا">
+  <button id="save">حفظ المفتاح</button>
+  <div id="status"></div>
+  <script src="options.js"></script>
+</body>
+</html>
